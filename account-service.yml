@@ -1,2 +1,2 @@
 account:
-  edmendpoint: "https://trident.edm.com/edm/accounts"
+  edmendpoint: "https://trident.edm.com/cloud/accounts"
